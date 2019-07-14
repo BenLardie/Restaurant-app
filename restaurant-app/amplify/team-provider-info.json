@@ -1,0 +1,14 @@
+{
+    "app": {
+        "awscloudformation": {
+            "AuthRoleName": "restaurant-app-app-20190714113951-authRole",
+            "UnauthRoleArn": "arn:aws:iam::367058106889:role/restaurant-app-app-20190714113951-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::367058106889:role/restaurant-app-app-20190714113951-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "restaurant-app-app-20190714113951-deployment",
+            "UnauthRoleName": "restaurant-app-app-20190714113951-unauthRole",
+            "StackName": "restaurant-app-app-20190714113951",
+            "StackId": "arn:aws:cloudformation:us-east-1:367058106889:stack/restaurant-app-app-20190714113951/9eb7d090-a64d-11e9-a3b7-121b5b00f9e8"
+        }
+    }
+}
